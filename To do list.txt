@@ -1,0 +1,26 @@
+- Montar animações da testemunha e implementá-las no jogo
+
+
+
+- Fazer indicador para itens interagíveis através da aproximação do jogador (uma flechinha ou uma frase "Aperte E" sobre o objeto)
+
+- Com interação de itens de narrativa, fazer com que ela apareça na tela (por exemplo, ao interagir com um caderno, fazer aparecer uma imagem do caderno)
+
+- Achar um jeito do jogador coletar itens como arma, lanterna e máscara de gás
+
+
+
+- Descobrir como fazer cutscenes in-game (durante gameplay) através do uso da câmera
+
+
+
+- Explorar a possibilidade de incrementar minigames para quebrar o padrão
+
+
+
+- Pensar sobre como tela de menu, HUD de pause e caixas de texto aparecerão
+
+
+
+- Substituir audio
+
